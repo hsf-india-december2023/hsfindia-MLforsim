@@ -1,4 +1,4 @@
-name: hsfindia-ml-training-2023
+name: hsfindia-generative
 channels:
   - pytorch
   - nvidia
@@ -195,4 +195,4 @@ dependencies:
     - traitlets==5.9.0
     - wcwidth==0.2.6
     - werkzeug==2.3.6
-prefix: /2023-12-18-hsf-india-tutorial-bhubaneswar/lesson-6-generative/
+prefix: /generative/
